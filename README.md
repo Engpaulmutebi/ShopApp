@@ -1,3 +1,3 @@
 # ShopApp
-for my introduction to node.js
+for my shop app introduction to node.js
 
