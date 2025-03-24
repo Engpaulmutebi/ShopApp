@@ -1,4 +1,4 @@
 # ShopApp
-my shop app introduction to no
+my shop app introduction to node.js
 
 
